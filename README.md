@@ -1,6 +1,6 @@
 # Episode-54: MCP v2 Tasks Extension
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/ECPto-Pi2co
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
